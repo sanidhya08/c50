@@ -1,0 +1,29 @@
+
+   h1 {
+        color: brown;
+       }
+
+    
+    .header{
+        background-color: chartreuse;
+        display:flex;
+        justify-content:space-between;
+    }
+    .grid{
+        background-color: cyan;
+        display:flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+       
+    }
+    
+    .footer{
+        background-color:gold;
+        display:flex;
+        justify-content:flex-end;
+    
+
+    }
+    p,h2{
+        text-align: center;
+    }
